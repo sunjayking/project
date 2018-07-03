@@ -9,7 +9,6 @@ PS：仅存储前端文件。
 
 
 ## Good Studio 官网 
-![Badge Tags](https://img.shields.io/badge/build-10%25-green.svg)
 
 ![Badge Tags](https://img.shields.io/badge/Good_Studio-v1.0-cb4042.svg)
 
